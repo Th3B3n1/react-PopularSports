@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "src": "./images/basketball.jpg",
+        "title": "Kosárlabda játék pillanat",
+        "alt": "Kosárlabda játékosok a pályán, labdával a levegőben"
+    },
+    {
+        "id": 2,
+        "src": "./images/running.jpeg",
+        "title": "Futó edzés közben.",
+        "alt": "Egy női sportoló fut, beltéri futópályán"
+    },
+    {
+        "id": 3,
+        "src": "./images/swimming.jpg",
+        "title": "Pillangó úszás közben.",
+        "alt": "Úszó a medencében, fekete úszósapkában"
+    }
+]

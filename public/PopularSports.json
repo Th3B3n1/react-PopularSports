@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "sport": "Foci",
+        "numberOfPlayers": "11 fő/csapat",
+        "properties": "Labdajáték, csapatmunka"
+    },
+    {
+        "id": 2,
+        "sport": "Kosárlabda",
+        "numberOfPlayers": "5 fő/csapat",
+        "properties": "Labdajáték, gyorsaság"
+    },
+    {
+        "id": 3,
+        "sport": "Tenisz",
+        "numberOfPlayers": "1 vagy 2 fő",
+        "properties": "Egyéni vagy páros játék"
+    },
+    {
+        "id": 4,
+        "sport": "Úszás",
+        "numberOfPlayers": "Egyéni",
+        "properties": "Állóképesség, gyorsaság"
+    },
+    {
+        "id": 5,
+        "sport": "Röplabda",
+        "numberOfPlayers": "6 fő/csapat",
+        "properties": "Labdajáték, csapatmunka"
+    }
+]
